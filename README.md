@@ -1,4 +1,4 @@
-### Ola, meu nome é Beatriz
+### Olá, meu nome é Beatriz
 
 
 ### Tecnologias:
